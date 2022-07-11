@@ -36,7 +36,7 @@ body {
 }
 
 .slider-container .slider:nth-child(1) .slide {
-    background: url('../imagens/battlefield.jpg');
+    background: url('../imagens/batman.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -45,7 +45,7 @@ body {
 }
 
 .slider-container .slider:nth-child(2) .slide {
-    background: url('../imagens/callofduty.jpg');
+    background: url('../imagens/godofwar.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -54,7 +54,7 @@ body {
 }
 
 .slider-container .slider:nth-child(3) .slide {
-    background: url('../imagens/games.jpg');
+    background: url('../imagens/assassinscreed.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -63,7 +63,7 @@ body {
 }
 
 .slider-container .slider:nth-child(4) .slide {
-    background: url('../imagens/spiderman.jpg');
+    background: url('../imagens/battlefield.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
